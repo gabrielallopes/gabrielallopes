@@ -3,7 +3,7 @@
 
 <div>
 <a href="https://www.linkedin.com/in/gabriela-lopes-0b2a111ab/">
-      <img alt="Gabriela Lopes" src="https://img.shields.io/badge/Gabriela Lopes-0078D4?style=for-the-badge&logo=Linkedin&logoColor=white" />
+      <img alt="Gabriela Lopes" src="https://img.shields.io/badge/Linkedin-0078D4?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="mailto:gabriela111lopes@gmail.com">
       <img alt="Gabriela Lopes" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
