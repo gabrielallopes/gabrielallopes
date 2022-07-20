@@ -19,6 +19,11 @@ Carreira em evolução na área de Tecnologia da Informação. Profissionalmente
 ![focus](https://img.shields.io/badge/Foco-Desenvolvimento%20FullStack-orange)
 ![living](https://img.shields.io/badge/País-Brasil-informational)
 
+
+- 🔭 Trabalhando atualmente na área de Infraestrutura do TI.
+- 🌱 Estudando Desenvolvimento Web e Banco de Dados.
+- 📫 Contate-me em: gabriela111lopes@gmail.com
+
 ---
 
 ### :computer: Habilidades Técnicas
